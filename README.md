@@ -38,17 +38,17 @@ Transfering style gives beautiful artistic results:
 And here are some results coupled with their style:
 
 <p align="center">
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
 </p>
 
 *Note: all of the stylized images were produced by me (using this repo), credits for original image artists [are given bellow](#acknowledgements).*
@@ -59,10 +59,10 @@ Changing style weight gives you less or more style on the final image, assuming 
 I did increments of 10 here for style weight (1e1, 1e2, 1e3, 1e4), while keeping content weight at constant 1e5, and I used random image as initialization image. 
 
 <p align="center">
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/26e08abe-c682-462b-b9f0-e6a20761d7a9" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/f4c332bb-e2fc-4715-bc85-358547f4a10d" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/6e8c56c5-0355-4ecd-a5d5-139a0ac845df" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/18ebdd7c-4097-40d4-8e0c-f8ee5e029bff" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/26e08abe-c682-462b-b9f0-e6a20761d7a9" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/f4c332bb-e2fc-4715-bc85-358547f4a10d" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/6e8c56c5-0355-4ecd-a5d5-139a0ac845df" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/18ebdd7c-4097-40d4-8e0c-f8ee5e029bff" />
 </p>
 
 ### Impact of total variation (tv) loss
@@ -71,10 +71,10 @@ Rarely explained, the total variation loss i.e. it's corresponding weight contro
 I also did increments of 10 here (1e1, 1e4, 1e5, 1e6) and I used content image as initialization image.
 
 <p align="center">
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/258c4634-30fe-4dc9-a713-b9776239d85e" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/19cf1b07-3716-4e2b-9663-190ef7f30b61" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/1412a85f-ad59-4553-8edc-1076eb556439" />
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/0ae0a65c-de9f-44eb-ba79-e9e958daa19b" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/258c4634-30fe-4dc9-a713-b9776239d85e" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/19cf1b07-3716-4e2b-9663-190ef7f30b61" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/1412a85f-ad59-4553-8edc-1076eb556439" />
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/0ae0a65c-de9f-44eb-ba79-e9e958daa19b" />
 
 </p>
 
@@ -162,7 +162,7 @@ Or take a look at [this accompanying YouTube video](https://www.youtube.com/watc
 
 Just run it! So that you can get something like this: :heart:
 <p align="center">
-<img width="719" height="500" alt="image" src="https://github.com/user-attachments/assets/4ddd99e0-c10c-4124-aa3c-9da64e9a182b" />
+<img width="719" height="500" alt="image" src="https://github.com/user-attachments/assets/2ab9f3f2-9611-4465-8fff-1abd1390ff2b" />
 </p>
 
 ### Debugging/Experimenting
