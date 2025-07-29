@@ -12,6 +12,7 @@ alt="NST Intro" width="480" height="360" border="10" /></a>
 The algorithm transfers style from one input image (the style image) onto another input image (the content image) using CNN nets (usually VGG-16/19) and gives a composite, stylized image out which keeps the content from the content image but takes the style from the style image.
 
 <p align="center">
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/23125073-7480-4096-8ce6-139a16df023c" />
 <img src="data/examples/bridge/green_bridge_vg_la_cafe_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0.jpg" width="570"/>
 <img src="data/examples/bridge/content_style.jpg" width="260"/>
 </p>
