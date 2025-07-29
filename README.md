@@ -13,8 +13,7 @@ The algorithm transfers style from one input image (the style image) onto anothe
 
 <p align="center">
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/23125073-7480-4096-8ce6-139a16df023c" />
-<img src="data/examples/bridge/green_bridge_vg_la_cafe_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0.jpg" width="570"/>
-<img src="data/examples/bridge/content_style.jpg" width="260"/>
+<img width="344" height="500" alt="image" src="https://github.com/user-attachments/assets/e907eaa1-7696-42f3-8d00-114808e57a4d" />
 </p>
 
 ### Why yet another NST repo?
@@ -27,29 +26,29 @@ Most of NST repos were written in TensorFlow (before it even had L-BFGS optimize
 Transfering style gives beautiful artistic results:
 
 <p align="center">
-<img src="data/examples/bridge/green_bridge_vg_starry_night_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
-<img src="data/examples/bridge/green_bridge_edtaonisl_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
-<img src="data/examples/bridge/green_bridge_wave_crop_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/14985e3e-733a-45ad-8c42-4677b8f5ab76" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/97d86618-d2fc-4678-8944-75ceb770121e" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/a012f5df-b72d-43aa-ae0c-f7df7198f837" />
 
-<img src="data/examples/lion/lion_candy_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
-<img src="data/examples/lion/lion_edtaonisl_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
-<img src="data/examples/lion/lion_vg_la_cafe_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="270px">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7bac308d-be77-4652-a741-49b2bac967d4" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1f371dd2-60db-4745-8ee7-71a10750752f" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/445ad6a1-bdcb-4206-b923-68ed1525f583" />
 </p>
 
 And here are some results coupled with their style:
 
 <p align="center">
-<img src="data/examples/figures/figures_ben_giles_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="400px">
-<img src="data/style-images/ben_giles.jpg" width="267px">
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
 
-<img src="data/examples/figures/figures_wave_crop_o_lbfgs_i_content_h_500_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="400px">
-<img src="data/style-images/wave_crop.jpg" width="267px">
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
+<img width="485" height="485" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
 
-<img src="data/examples/figures/figures_vg_wheat_field_w_350_m_vgg19_cw_100000.0_sw_300000.0_tv_1.0_resized.jpg" width="400px">
-<img src="data/style-images/vg_wheat_field_cropped.jpg" width="267px">
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
 
-<img src="data/examples/figures/figures_vg_starry_night_w_350_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0_resized.jpg" width="400px">
-<img src="data/style-images/vg_starry_night_resized.jpg" width="267px">
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
 </p>
 
 *Note: all of the stylized images were produced by me (using this repo), credits for original image artists [are given bellow](#acknowledgements).*
@@ -60,10 +59,10 @@ Changing style weight gives you less or more style on the final image, assuming 
 I did increments of 10 here for style weight (1e1, 1e2, 1e3, 1e4), while keeping content weight at constant 1e5, and I used random image as initialization image. 
 
 <p align="center">
-<img src="data/examples/style-tradeoff/figures_vg_starry_night_o_lbfgs_i_random_h_352_m_vgg19_cw_100000.0_sw_10.0_tv_1.0_resized.jpg" width="200px">
-<img src="data/examples/style-tradeoff/figures_vg_starry_night_o_lbfgs_i_random_h_352_m_vgg19_cw_100000.0_sw_100.0_tv_1.0_resized.jpg" width="200px">
-<img src="data/examples/style-tradeoff/figures_vg_starry_night_o_lbfgs_i_random_h_352_m_vgg19_cw_100000.0_sw_1000.0_tv_1.0_resized.jpg" width="200px">
-<img src="data/examples/style-tradeoff/figures_vg_starry_night_o_lbfgs_i_random_h_352_m_vgg19_cw_100000.0_sw_10000.0_tv_1.0_resized.jpg" width="200px">
+<img width="350" height="233" alt="image" src="https://github.com/user-attachments/assets/26e08abe-c682-462b-b9f0-e6a20761d7a9" />
+<img width="350" height="233" alt="image" src="https://github.com/user-attachments/assets/f4c332bb-e2fc-4715-bc85-358547f4a10d" />
+<img width="350" height="233" alt="image" src="https://github.com/user-attachments/assets/6e8c56c5-0355-4ecd-a5d5-139a0ac845df" />
+<img width="350" height="233" alt="image" src="https://github.com/user-attachments/assets/18ebdd7c-4097-40d4-8e0c-f8ee5e029bff" />
 </p>
 
 ### Impact of total variation (tv) loss
