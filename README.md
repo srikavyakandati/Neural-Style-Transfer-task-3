@@ -39,16 +39,16 @@ And here are some results coupled with their style:
 
 <p align="center">
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
 </p>
 
 *Note: all of the stylized images were produced by me (using this repo), credits for original image artists [are given bellow](#acknowledgements).*
