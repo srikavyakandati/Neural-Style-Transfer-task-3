@@ -26,29 +26,29 @@ Most of NST repos were written in TensorFlow (before it even had L-BFGS optimize
 Transfering style gives beautiful artistic results:
 
 <p align="center">
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/14985e3e-733a-45ad-8c42-4677b8f5ab76" />
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/97d86618-d2fc-4678-8944-75ceb770121e" />
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/a012f5df-b72d-43aa-ae0c-f7df7198f837" />
+<img width="270" height="333" alt="image" src="https://github.com/user-attachments/assets/14985e3e-733a-45ad-8c42-4677b8f5ab76" />
+<img width="270" height="333" alt="image" src="https://github.com/user-attachments/assets/97d86618-d2fc-4678-8944-75ceb770121e" />
+<img width="270" height="333" alt="image" src="https://github.com/user-attachments/assets/a012f5df-b72d-43aa-ae0c-f7df7198f837" />
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7bac308d-be77-4652-a741-49b2bac967d4" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1f371dd2-60db-4745-8ee7-71a10750752f" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/445ad6a1-bdcb-4206-b923-68ed1525f583" />
+<img width="270" height="400" alt="image" src="https://github.com/user-attachments/assets/7bac308d-be77-4652-a741-49b2bac967d4" />
+<img width="270" height="400" alt="image" src="https://github.com/user-attachments/assets/1f371dd2-60db-4745-8ee7-71a10750752f" />
+<img width="270" height="400" alt="image" src="https://github.com/user-attachments/assets/445ad6a1-bdcb-4206-b923-68ed1525f583" />
 </p>
 
 And here are some results coupled with their style:
 
 <p align="center">
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7229f57d-bfe8-4349-9bd9-ff58a489a421" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6f57dd18-3262-4a32-9bd4-ecd59713bb3f" />
 
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
-<img width="485" height="485" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e853a6e5-5012-4c3e-a6b1-f32d5237aa19" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cff8ab44-3669-47f6-a1b3-9eecb33ffb11" />
 
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b75fa45d-298f-4e7e-a4a7-af10140ebc5f" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/86004ebf-3374-4059-83b9-7d4453d70d9e" />
 
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8bfaba48-e26e-4e09-8155-533ffac9cdae" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/26977fae-8961-466b-83a4-199571d24e83" />
 </p>
 
 *Note: all of the stylized images were produced by me (using this repo), credits for original image artists [are given bellow](#acknowledgements).*
